@@ -60,7 +60,7 @@ My experience 👨‍💻 <br>
 
 <img hight="320" width="450" align="right" alt="GIF" src="./assets/harry.gif">
 
-If you want to know more about me, contact me and invitame a coffee!! 😏.
+If you want to know more about me, contact me and invite me a coffee!! 😏.
 
 <a href="mailto:jehison3009@gmail.com" style="margin-right: 30px;">
  Mail: jehison3009@gmail.com 📧
