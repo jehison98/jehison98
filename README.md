@@ -21,7 +21,7 @@ Why me? 🤷‍♂️ <br>
 My experience 👨‍💻 <br>
 🔷 I have 2 years of experience in the web develop using technologies like HTML, CSS, JavaScript, SASS, Bootstrap, Node JS, React JS, Redux, Postgres SQL, Sequelize, Webpack, Babel. I did some academic projects and other personal projects that you can see in my portafolio (my portafolio are able in my Linkedin contact info or in the end of this about me)
 
-🔷 I studied at in a Bootcamp created by Henry, where I learned many new skills and improve my other skills. And I socialized with other programmers like me to develop a project as a team.
+🔷 I studied at a Bootcamp created by Henry, where I learned many new skills and improve my other skills. And I socialized with other programmers like me to develop a project as a team.
 
 <img hight="400" width="500" alt="GIF" align="right" src="./assets/coding-cat.gif">
 
